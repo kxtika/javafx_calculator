@@ -1,0 +1,14 @@
+.root {
+    -fx-background-color: #d3f4f3;
+    -fx-background-radius: 20;
+}
+
+.mainPane {
+    -fx-background-color: linear-gradient(to bottom left, #ffb4ce, #ffe5b4, #08e8de, #b4ffe5);
+    -fx-background-radius: 15 15 25 25;
+}
+
+.highlight {
+    -fx-background-color: transparent, #e5e5e6;
+    -fx-background-radius: 15;
+}
